@@ -7,6 +7,7 @@ server/node_modules
 # environment variables
 server/.env
 client/.env
+server/config.js
 /.pnp
 .pnp.js
 
